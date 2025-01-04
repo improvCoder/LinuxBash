@@ -1,0 +1,6 @@
+  /home/sandeepdeoja/Bash/LinuxBash:
+  total used in directory 4 available 1 GiB
+  drwxr-xr-x 1 root root  26 Jan  4 10:39 .
+  drwxr-xr-x 1 root root  18 Jan  4 10:06 ..
+  drwxr-xr-x 1 root root 166 Jan  4 10:39 .git
+  -rw-r--r-- 1 root root 183 Jan  4 10:39 script.sh
