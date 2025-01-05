@@ -1,6 +1,11 @@
+CXX=g++
+SH=sh
+header=headerFile
 target:
-	sh script.sh
-
+	$(SH) script.sh
+	$(CXX) -I$(header) main.cpp -o ./bin/outputFile
+clean:
+	-rm ./bin/outputFile
 add:
 	git add .
 
